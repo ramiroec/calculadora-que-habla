@@ -78,4 +78,5 @@ La calculadora utiliza el paquete pyttsx3 para convertir texto en voz, haciendo 
 <p>Si deseas contribuir a este proyecto, por favor, crea un pull request con tus cambios.</p>
 
 ## 🌟 Créditos
-Proyecto desarrollado con ❤️ por [Ramiro Estigarribia Canese](https://github.com/ramiroec).
+Código escrito con café ☕ y algo de paciencia por Ramiro Estigarribia Canese.
+
