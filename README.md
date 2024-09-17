@@ -50,6 +50,7 @@ Esta calculadora soporta las siguientes operaciones:
 
 ## 📂 Estructura del Proyecto
 
+```bash
 calculator-que-habla/
 │
 ├── calculator/
@@ -59,6 +60,7 @@ calculator-que-habla/
 ├── main.py             # Archivo principal para interactuar con el usuario
 ├── requirements.txt    # Dependencias del proyecto
 └── README.md           # Este archivo
+
 
 ## 💻 Requisitos
 
