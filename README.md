@@ -70,6 +70,12 @@ Biblioteca pyttsx3 para la síntesis de voz (incluida en requirements.txt)
 ## 🗣️ Funcionalidad de Voz
 La calculadora utiliza el paquete pyttsx3 para convertir texto en voz, haciendo la experiencia más interactiva. Si tienes algún problema con la síntesis de voz, asegúrate de que pyttsx3 esté correctamente instalado y funcionando en tu sistema.
 
-##🌟 Créditos
-Proyecto desarrollado con ❤️ por Ramiro Estigarribia Canese.
+## 📜 Licencia
+<p>Este proyecto se encuentra bajo la licencia MIT.</p>
 
+
+## 🤝 Contribuciones
+<p>Si deseas contribuir a este proyecto, por favor, crea un pull request con tus cambios.</p>
+
+## 🌟 Créditos
+Proyecto desarrollado con ❤️ por [Ramiro Estigarribia Canese](https://github.com/ramiroec).
