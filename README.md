@@ -60,7 +60,7 @@ calculator-que-habla/
 ├── main.py             # Archivo principal para interactuar con el usuario
 ├── requirements.txt    # Dependencias del proyecto
 └── README.md           # Este archivo
-
+```
 
 ## 💻 Requisitos
 
